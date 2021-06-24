@@ -1,7 +1,7 @@
 /*
-Theme Name: João Malta - v2017-09
+Theme Name: JoÃ£o Malta - v2017-09
 Author: Code200
-Description: Tema desenvolvido com exclusividade para João Malta
+Description: Tema desenvolvido com exclusividade para JoÃ£o Malta
 Version: 1.0
 */
 
@@ -35,7 +35,7 @@ section {width:100%; float:left;}
 a:active {text-decoration:none; outline:none;}
 a:hover {text-decoration:none;}
 
-#header {background:#000; padding-top:26px; padding-bottom:20px; transition:all 0.3s ease-in-out;}
+#header {background: #af6754;padding-top:26px;padding-bottom:20px;transition:all 0.3s ease-in-out;}
 #header.affix {position:fixed; top:0; left:0; width:100%; z-index:999; padding-top:5px; padding-bottom:5px;}
 #header.affix + section {margin-top:95px;}
 #header .logo {max-width:210px; width:100%; height:auto;}
