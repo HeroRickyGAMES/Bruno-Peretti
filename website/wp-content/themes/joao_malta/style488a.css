@@ -1,7 +1,7 @@
 /*
-Theme Name: JoÃ£o Malta - v2017-09
+Theme Name: HeroRicktGames 2020
 Author: Code200
-Description: Tema desenvolvido com exclusividade para JoÃ£o Malta
+Description: Tema desenvolvido com exclusividade para JoÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o Malta
 Version: 1.0
 */
 
@@ -35,14 +35,14 @@ section {width:100%; float:left;}
 a:active {text-decoration:none; outline:none;}
 a:hover {text-decoration:none;}
 
-#header {background: #af6754;padding-top:26px;padding-bottom:20px;transition:all 0.3s ease-in-out;}
+#header {background: #022E40;padding-top:26px;padding-bottom:20px;transition:all 0.3s ease-in-out;}
 #header.affix {position:fixed; top:0; left:0; width:100%; z-index:999; padding-top:5px; padding-bottom:5px;}
 #header.affix + section {margin-top:95px;}
 #header .logo {max-width:210px; width:100%; height:auto;}
 #header .menu {margin:15px 0 0 0; padding:0;}
 #header .menu li {margin:0; padding:0 30px; border-right:solid 2px #fff; list-style:none; display:inline-block; text-align:center; position:relative;}
 #header .menu li:last-child {border-right:none;}
-#header .menu li a {padding:0; font-size:13px; line-height:15px; color:#fff; font-family:'FuturaBQ'; text-transform:uppercase; display:block; transition:all 0.3s ease-in-out;}
+#header .menu li a {padding:0;font-size:13px;line-height:15px;color: #fff;font-family:'FuturaBQ';text-transform:uppercase;display:block;transition:all 0.3s ease-in-out;}
 #header .menu li a:active,
 #header .menu li a:focus,
 #header .menu li a:hover {color:#e18066;}
@@ -91,7 +91,7 @@ a:hover {text-decoration:none;}
 
 #b4 {background-color:#d8d8d9; background-position:top center; background-size:100% 100%; background-repeat:no-repeat; padding-top:80px; padding-bottom:60px;}
 #b4 .texto-principal {color:#fff;}
-#b4 .texto-principal h2 {font-size:50px; line-height:50px; font-family:'FuturaBQ'; margin-top:0; margin-bottom:12px; color:#565654;}
+#b4 .texto-principal h2 {font-size:50px;line-height:50px;font-family:'FuturaBQ';margin-top:0;margin-bottom:12px;color: #fffff;}
 #b4 .texto-principal hr {width:60px; border-top:solid 1px #565654; margin:0 auto 20px 0;}
 #b4 .texto-principal p {font-size:18px; line-height:22px; margin-bottom:20px; text-align:justify;}
 #b4 .texto-principal p:last-child {margin-top:40px;}
@@ -101,7 +101,7 @@ a:hover {text-decoration:none;}
 #b4 .lista li figure {margin-bottom:5px;}
 #b4 .lista li figure img {max-width:100%; max-height:50px;}
 #b4 .lista li h3 {margin-top:0; margin-bottom:0; font-size:16px; line-height:20px; font-family:'FuturaBQ'; font-weight:400; color:#fff; text-transform:uppercase;}
-#b4 .lista li h3:last-child {color:#565654;}
+#b4 .lista li h3:last-child {color: #ffff;}
 #b4 .imagem {margin-top:90px; position:relative;}
 #b4 .imagem img {position:absolute; top:0; left:0;}
 #b4 .boxes {width:100%; margin-top:40px; margin-left:-25px;}
@@ -111,7 +111,7 @@ a:hover {text-decoration:none;}
 #b4 .boxes table tr td .box:hover {box-shadow:-3px 8px 1px rgba(0,0,0,.2); background:#fff;}
 #b4 .boxes table tr td .box figure {margin-bottom:5px;}
 #b4 .boxes table tr td .box figure img {max-width:100%; max-height:50px;}
-#b4 .boxes table tr td .box h3 {margin-top:0; margin-bottom:20px; padding-left:15px; padding-right:15px; font-size:16px; line-height:20px; font-family:'FuturaBQ'; font-weight:400; color:#e18066; text-transform:uppercase;}
+#b4 .boxes table tr td .box h3 {margin-top:0;margin-bottom:20px;padding-left:15px;padding-right:15px;font-size:16px;line-height:20px;font-family:'FuturaBQ';font-weight:400;color: #034159;text-transform:uppercase;}
 #b4 .boxes table tr td .box p {color:#565654; font-size:16px; line-height:20px; margin-bottom:0;}
 #b4 .texto-final {margin-top:100px;}
 #b4 .texto-final table {width:100%;}
@@ -154,8 +154,8 @@ a:hover {text-decoration:none;}
 #b5 .planos > div:nth-child(even) .plano:hover {background:#565654;}
 #b5 .planos > div:nth-child(even) .plano:hover h2 span {background:#565654;}
 
-#b6 {background-color:#e18066; background-position:top center; background-size:100% 100%; background-repeat:no-repeat; padding-top:80px; padding-bottom:60px;}
-#b6 .texto h2 {font-size:50px; line-height:50px; font-family:'FuturaBQ'; margin-top:0; margin-bottom:12px; color:#e18066;}
+#b6 {background-color: #1C98A6;background-position:top center;background-size:100% 100%;background-repeat:no-repeat;padding-top:80px;padding-bottom:60px;}
+#b6 .texto h2 {font-size:50px;line-height:50px;font-family:'FuturaBQ';margin-top:0;margin-bottom:12px;color: #D9A036;}
 #b6 .texto hr {width:60px; border-top:solid 1px #e18066; margin:0 auto 20px 0;}
 #b6 .texto p {font-size:18px; line-height:22px; margin-bottom:20px; text-align:justify; color:#fff;}
 #b6 .itens {margin-top:20px; width:100%;}
@@ -164,10 +164,10 @@ a:hover {text-decoration:none;}
 #b6 .itens tr:first-child td:nth-child(1):before {top:50%;}
 #b6 .itens tr:last-child td:nth-child(1):before {bottom:50%;}
 #b6 .itens tr td:nth-child(1):before {position:absolute; left:50%; width:1px; top:0; bottom:0; background:#e18066; content:"";}
-#b6 .itens tr td:nth-child(1) figure {width:90px; height:90px; border:solid 1px #e18066; background:#3c3d3d; border-radius:50%; text-align:center; position:relative; z-index:2;}
+#b6 .itens tr td:nth-child(1) figure {width:90px;height:90px;border: solid 1px #D9A036;background:#3c3d3d;border-radius:50%;text-align:center;position:relative;z-index:2;}
 #b6 .itens tr td:nth-child(1) figure img {max-width:100%; max-height:70px; margin-top:12px;}
 #b6 .itens tr td:nth-child(2) {padding-left:35px;}
-#b6 .itens tr td:nth-child(2) h3 {margin-top:0; margin-bottom:10px; font-size:16px; line-height:20px; font-family:'FuturaBQ'; font-weight:400; color:#e18066;}
+#b6 .itens tr td:nth-child(2) h3 {margin-top:0;margin-bottom:10px;font-size:16px;line-height:20px;font-family:'FuturaBQ';font-weight:400;color: #D9A036;}
 #b6 .itens tr td:nth-child(2) p {font-size:16px; line-height:20px; margin-bottom:10px; text-align:justify; color:#fff;}
 #b6 .itens tr td:nth-child(2) p:last-child {margin-bottom:0;}
 
@@ -200,15 +200,15 @@ a:hover {text-decoration:none;}
 .formulario *:-ms-input-placeholder {color:#e18066;}
 .formulario *:-moz-placeholder {color:#e18066;}
 
-#b8 {padding-top:60px; padding-bottom:120px; background:#e18066;}
-#b8 h2 {font-size:40px; line-height:40px; font-family:'FuturaBQ'; margin-top:0; margin-bottom:40px; color:#565654; text-align:center;}
+#b8 {padding-top:60px;padding-bottom:120px;background: #1C98A6;}
+#b8 h2 {font-size:40px;line-height:40px;font-family:'FuturaBQ';margin-top:0;margin-bottom:40px;color: lemonchiffon;text-align:center;}
 #b8 .lista-depoimentos {position:relative;}
 #b8 .lista-depoimentos h4 {text-align:center;}
 #b8 .lista-depoimentos h4:before {background:url(img/dep-detalhe.png) no-repeat center center; display:inline-block; width:37px; height:32px; content:"";}
 #b8 .lista-depoimentos figure {width:200px; height:200px; background-color:#d8d8d9; background-size:cover; background-position:center center; background-repeat:no-repeat; margin:0 auto 25px auto; border:solid 3px #fff; border-radius:50%;}
 #b8 .lista-depoimentos p {font-size:20px; color:#ffffff; line-height:32px; margin-bottom:15px; text-transform:uppercase;}
 #b8 .lista-depoimentos p strong {font-family:'FuturaBQ'; font-weight:400;}
-#b8 .lista-depoimentos h3 {font-size:20px; color:#565654; line-height:32px; font-family:'FuturaBQ'; font-weight:400; text-transform:uppercase; margin-top:20px; margin-bottom:50px; position:relative;}
+#b8 .lista-depoimentos h3 {font-size:20px;color: lemonchiffon;line-height:32px;font-family:'FuturaBQ';font-weight:400;text-transform:uppercase;margin-top:20px;margin-bottom:50px;position:relative;}
 #b8 .lista-depoimentos h3:before {width:300px; height:30px; content:""; opacity:.3; bottom:-40px; left:50%; margin-left:-150px; position:absolute; background: -moz-radial-gradient(center, ellipse cover, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.4) 1%, rgba(0,0,0,0) 62%, rgba(0,0,0,0) 100%); background: -webkit-radial-gradient(center, ellipse cover, rgba(0,0,0,0.4) 0%,rgba(0,0,0,0.4) 1%,rgba(0,0,0,0) 62%,rgba(0,0,0,0) 100%); background: radial-gradient(ellipse at center, rgba(0,0,0,0.4) 0%,rgba(0,0,0,0.4) 1%,rgba(0,0,0,0) 62%,rgba(0,0,0,0) 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#66000000', endColorstr='#00000000',GradientType=1 );}
 .lista-depoimentos .owl-carousel .owl-controls .owl-nav .owl-prev {position:absolute; top:50%; left:0px; margin-top:-11px;}
 .lista-depoimentos .owl-carousel .owl-controls .owl-nav .owl-next {position:absolute; top:50%; right:0px; margin-top:-11px;}
