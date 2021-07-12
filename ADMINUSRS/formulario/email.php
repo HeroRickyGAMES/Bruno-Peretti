@@ -1,6 +1,6 @@
 <?php
 
 file_put_contents("formulario.txt", $_POST['nome'] .", ". $_POST['email'] . ", " . $_POST['message'] . "\n" , FILE_APPEND);
-header('Location: ../../website/index.html');
+header('Location: ../index.html');
 exit();
 ?>

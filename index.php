@@ -1,8 +1,7 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="pt-BR">
 
-<!-- Mirrored from joaomalta.com.br/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 24 Jun 2021 00:45:48 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
@@ -27,7 +26,6 @@
 		<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 		<link href="http://joaomalta.com.br/wp-content/themes/joao_malta/css/fontello-ie7.css" type="text/css" rel="stylesheet">
     <![endif]-->
-	
 	<script type="text/javascript">
 	var template_url = "wp-content/themes/joao_malta/index.html";
 	</script>
@@ -94,7 +92,7 @@ img.emoji {
         <div class="container">
             <div class="row">
                 <div class="col-xs-6">
-                    <a href="index.html" title="Bruno Peretti">
+                    <a href="index.php" title="Bruno Peretti">
                         <img class="logo" src="wp-content/uploads/2017/09/logo_jm.png" alt="Logo" />
                     </a>
                 </div>
@@ -115,18 +113,18 @@ img.emoji {
     <section id="header" class="hidden-xs visible-sm visible-md visible-lg" data-spy="affix" data-offset-top="86">
         <div class="container">
             <div class="col-sm-3 text-sm-center col-md-3 text-md-left logo-base">
-                <a href="index.html">
+                <a href="index.php">
                     <img class="logo" src="wp-content/uploads/2017/09/logo_jm.png" alt="Bruno Peretti" />
                 </a>
             </div>
             <div class="col-sm-9 col-md-9 text-center">
                 <div class="menu-menu-principal-container">
                     <ul id="menu-menu-principal" class="menu">
-                        <li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="index.html">HOME</a></li>
+                        <li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="index.php">HOME</a></li>
                         <li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="#b2">SOBRE</a></li>
-                        <li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="#b4">TREINAMENTO</a></li>
-                        <li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="BlogPage/blogpag1.html">BLOG</a></li>
-                        <li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a href="#b6">SMART</a></li>
+                        <li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="#b4">PROGRAMA</a></li>
+                        <!-- <li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="BlogPage/blogpag1.html">BLOG</a></li> -->
+                        <li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a href="#b6">MINHA METODOLOGIA</a></li>
                         <li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a href="#b8">Depoimentos</a></li>
                     </ul>
                 </div>
@@ -289,6 +287,11 @@ jsFileLocation:"//joaomalta.com.br/wp-content/plugins/revslider/public/assets/js
 					}
         </script>
         </div><!-- END REVOLUTION SLIDER -->			<a href="javascript:;" onclick="$('html,body').animate({'scrollTop':$('#slider').next().position().top}, 'swing');" class="to-bottom"></a>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<a href="https://wa.me/5511940701116?text=Olá%20Bruno%20me%20interessei%20pelo%20seu%20treinamento." style="position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;
+  z-index:1000;" target="_blank">
+<i style="margin-top:16px" class="fa fa-whatsapp"></i>
+</a>
     <section id="b2">
         <div class="container base">
             <div class="col-sm-12 col-md-12 col-lg-7">
