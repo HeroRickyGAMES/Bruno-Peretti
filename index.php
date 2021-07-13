@@ -615,10 +615,7 @@ var wpcf7 = {"apiSettings":{"root":"http:\/\/joaomalta.com.br\/wp-json\/contact-
                     <p>Todos os direitos reservados © 2021</p>
                     <ul><li>011 94070-1116</li><li><a href="mailto:bclementinos@gmail.com" target="_blank">bclementinos@gmail.com</a></li><li><a href="https://www.instagram.com/bruno_peretti"><i class="fa fa-instagram"></i> <a href="https://web.whatsapp.com/send?phone=5511940701116&text=Ol%C3%A1+Bruno+me+interessei+pelo+seu+treinamento.&app_absent=0"><i class="fa fa-phone"></i></a> <a href="https://facebook.com/personalbrunoperetti/"><i class="fa fa-facebook"></i></a> <a href="https://www.youtube.com/channel/UCMZhOTgMAmDYFbntLncpy6g"><i class="fa fa-youtube"></i></a></a></li></ul>
                     <p>Desenvolvido por <a href="http://www.youtube.com/herorickygames">HeroRicky Games</a></p>
-					<p>Caso tenha interesse de contato com o Desenvolvedor do site:</p>
-                    <h4><a href="https://api.whatsapp.com/send?phone=5511971153868&text=Ol%C3%A1%20Ricky%2C%20me%20interessei%20pelo%20seu%20servi%C3%A7o%20no%20site%20do%20seu%20cliente%2C%20me%20interesso%20num%20or%C3%A7amento%20para%20fazer%20o%20meu%20site!">Whatsapp do desenvolvedor desse site. </a></h4>
-					<h4><a href="http://www.youtube.com/herorickygames">Canal do desenvolvedor desse site no Youtube</a></h4>
-					<h4><a href="http://instagram.com/heroricky_games">Instagram do desenvolvedor desse site</a></h4>
+                    <p>Feito com carinho por <a href="https://api.whatsapp.com/send?phone=5511971153868&text=Ol%C3%A1%20Ricky%2C%20me%20interessei%20pelo%20seu%20servi%C3%A7o%20no%20site%20do%20seu%20cliente%2C%20me%20interesso%20num%20or%C3%A7amento%20para%20fazer%20o%20meu%20site!">Ricky Souza</a></p>
 					<p>
                 </div>
             </div>
