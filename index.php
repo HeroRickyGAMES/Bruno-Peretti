@@ -18,6 +18,7 @@
 	<script src="cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
 	
 	<link href="https://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Yellowtail" rel="stylesheet">
 	<link href="wp-content/themes/joao_malta/style488a.css" type="text/css" rel="stylesheet">
 	
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -92,7 +93,7 @@ img.emoji {
         <div class="container">
             <div class="row">
                 <div class="col-xs-6">
-                    <a href="index.php" title="Bruno Peretti">
+                    <a href="/" title="Bruno Peretti">
                         <img class="logo" src="wp-content/uploads/2017/09/logo_jm.png" alt="Logo" />
                     </a>
                 </div>
@@ -113,19 +114,25 @@ img.emoji {
     <section id="header" class="hidden-xs visible-sm visible-md visible-lg" data-spy="affix" data-offset-top="86">
         <div class="container">
             <div class="col-sm-3 text-sm-center col-md-3 text-md-left logo-base">
-                <a href="index.php">
+                <a href="/">
                     <img class="logo" src="wp-content/uploads/2017/09/logo_jm.png" alt="Bruno Peretti" />
                 </a>
             </div>
             <div class="col-sm-9 col-md-9 text-center">
                 <div class="menu-menu-principal-container">
                     <ul id="menu-menu-principal" class="menu">
-                        <li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="index.php">HOME</a></li>
-                        <li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="#b2">SOBRE</a></li>
+                        <li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="index.php">INICIO</a></li>
                         <li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="#b4">PROGRAMA</a></li>
                         <!-- <li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="BlogPage/blogpag1.html">BLOG</a></li> -->
-                        <li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a href="#b6">MINHA METODOLOGIA</a></li>
+                        <li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a href="#b6">METODOLOGIA</a></li>
+						<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="#s1">SOBRE</a></li>
                         <li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a href="#b8">Depoimentos</a></li>
+                        <li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a href="#c1">Contato</a></li>
+                            <li><a href="https://www.instagram.com/bruno_peretti"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="https://facebook.com/personalbrunoperetti/"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://www.youtube.com/channel/UCMZhOTgMAmDYFbntLncpy6g"><i class="fa fa-youtube"></i></a></li>
+                            <li><a href="https://api.whatsapp.com/send?phone=5511940701116&text=Ol%C3%A1%20Bruno%2C%20me%20interessei%20pelo%20seu%20treinamento."><i class="fa fa-phone"></i></a></li>
+
                     </ul>
                 </div>
             </div>
@@ -288,7 +295,7 @@ jsFileLocation:"//joaomalta.com.br/wp-content/plugins/revslider/public/assets/js
         </script>
         </div><!-- END REVOLUTION SLIDER -->			<a href="javascript:;" onclick="$('html,body').animate({'scrollTop':$('#slider').next().position().top}, 'swing');" class="to-bottom"></a>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-<a href="https://wa.me/5511940701116?text=Olá%20Bruno%20me%20interessei%20pelo%20seu%20treinamento." style="position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;
+<a href="https://api.whatsapp.com/send?phone=5511940701116&text=Ol%C3%A1%20Bruno%2C%20me%20interessei%20pelo%20seu%20treinamento." style="position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;
   z-index:1000;" target="_blank">
 <i style="margin-top:16px" class="fa fa-whatsapp"></i>
 </a>
@@ -304,31 +311,18 @@ jsFileLocation:"//joaomalta.com.br/wp-content/plugins/revslider/public/assets/js
                 </div>
             </div>
             <div class="col-md-12 col-lg-5 texto-direita">
-                <h2><span style="color: #F28705;">Bruno Peretti</span></h2>
-                <hr />
-                <h3>EU VOU TE MOSTRAR
-A VERDADEIRA FORÇA QUE RESIDE DENTRO DE VOCÊ! E TE IMPEDE DE CONSEGUIR OS SEUS OBJETIVOS!
- <span style="color: #F28705;">VAMOS NESSA?</span><br /></h3>
-                <p>Sou Personal Trainer e Coach especializado em pessoas acima dos 30 anos, <strong>com dificuldade de Emagrecer e Cuidar da Saúde. Acerte no ☺🎯 Bora ??</strong></p>
+               <h3><span style="color: #F28705;">Minha missão é servir como agente de transformação à pessoas comuns, com ou sem experiência em exercícios a emagrecer, cuidar da saúde e autoestima.</span></h3>
+<h3>Vamos nessa?<br /><h3>
             </div>
         </div>
     </section>
-
-    <section id="b3" style="background-image:url(wp-content/uploads/2017/09/bg-rodape.png);">
-        <div class="container base">
-            <div class="col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 text-center">
-                <p><img src="wp-content/themes/joao_malta/img/b3-detalhe.png" /></p>
-                <p>O processo por mim elaborado, é ideal para quem está disposto a assumir as rédeas de sua vida, e dar um novo trajeto em todos os aspectos dela, assumindo a responsabilidade na busca por resultados e realizações. O método SMART também é recomendado para aprimorar e ampliar capacidades pessoais e profissionais.</p>
-            </div>
-        </div>
-    </section>
-
     <section id="b4" style="background-image:url(wp-content/uploads/2017/09/BG-laranja.png);">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-lg-10">
                     <div class="row">
                         <div class="col-sm-8 texto-principal">
+						
                             <h2>UM PROGRAMA INTELIGENTE PARA CADA NECESSIDADE</h2>
                             <hr />
                             <p>O processo por mim elaborado, é ideal para quem está disposto a assumir as rédeas de sua vida, e dar um novo trajeto em todos os aspectos dela, assumindo a responsabilidade na busca por resultados e realizações. O método SMART também é recomendado para aprimorar e ampliar capacidades pessoais e profissionais. </p>
@@ -363,7 +357,7 @@ A VERDADEIRA FORÇA QUE RESIDE DENTRO DE VOCÊ! E TE IMPEDE DE CONSEGUIR OS SEUS
                                             <p>
                                                 O Programa Smart para Mulheres é a minha obra prima, ele serve para deixar o seu corpo como quer e vai além disso, muito além... ele vai elevar a sua autoestima e trazer mais energia para sua vida.
                                             </p>
-											<h1><a href="Pagin ainda sendo feita">Clique aqui e Saiba mais</a></h1>
+											<!-- <h1><a href="smart%20mulheres/"><img src="wp-content\uploads\2017\09\Botão-Saiba-mais-3.png"/></a></h1> -->
                                         </div>
                                     </td>
                                     <td>
@@ -371,7 +365,7 @@ A VERDADEIRA FORÇA QUE RESIDE DENTRO DE VOCÊ! E TE IMPEDE DE CONSEGUIR OS SEUS
                                             <figure><img src="wp-content/uploads/2017/09/b4-ico-5.png" /></figure>
                                             <h3>SMART SAÚDE</h3>
                                             <p>Saúde Smart é um método que consiste em entender a sua necessidade, associar os treinamentos diários de 30 minutos em alta intensidade, alimentação equilibrada e autodescoberta para performance.</p>
-											<h1><a href="Pagin ainda sendo feita">Clique aqui e Saiba mais</a></h1>
+											<!-- <h1><a href="Pagin ainda sendo feita"><img src="wp-content\uploads\2017\09\Botão-Saiba-mais-3.png"/></a></h1> -->
                                         </div>
                                     </td>
                                     <td>
@@ -381,7 +375,7 @@ A VERDADEIRA FORÇA QUE RESIDE DENTRO DE VOCÊ! E TE IMPEDE DE CONSEGUIR OS SEUS
                                             <p>O Programa Smart para Homens está ajudando homens comuns a emagrecer e a ganhar músculos.</p>
                                             <p>São treinos de no máximo 30 minutos 3x na semana.</p>
                                             <p>Treinos rápidos e intensos com resultados SURPREENDENTES em até 10 semanas!</p>
-											<h1><a href="Pagin ainda sendo feita">Clique aqui e Saiba mais</a></h1>
+											<!-- <h1><a href="Pagin ainda sendo feita"><img src="wp-content\uploads\2017\09\Botão-Saiba-mais-3.png"/></a></h1> -->
                                         </div>
                                     </td>
                                 </tr>
@@ -421,7 +415,7 @@ A VERDADEIRA FORÇA QUE RESIDE DENTRO DE VOCÊ! E TE IMPEDE DE CONSEGUIR OS SEUS
                     </div>
                     <div class="col-sm-12 col-md-6">
                         <div class="texto">
-                            <h2>ESSE PROGRAMA FOI DESENVOLVIDO POR UM EX-OBESO, E AS PESSOAS COMUNS QUE JA TENTARAM E NÃO CONSEGUIRAM?</h2>
+                            <h2>METODOLOGIA</h2>
                             <hr />
                             <p>Eu montei esse programa de emagrecimento e ganho de massa muscular que fará você reprogramar sua forma de pensar o emagrecimento e a sua condição de saúde.</p>
                         </div>
@@ -460,30 +454,17 @@ A VERDADEIRA FORÇA QUE RESIDE DENTRO DE VOCÊ! E TE IMPEDE DE CONSEGUIR OS SEUS
                     </div>
                 </div>
             </div>
+			    <section id="b3" style="background-image:url(wp-content/uploads/2017/09/bg-rodape.png);">
+        <div class="container base" id=s1>
+            <div class="col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 text-center">
+                <p><img src="wp-content/themes/joao_malta/img/b3-detalhe.png" /></p>
+				<h1>APRENDA COM QUEM JÁ PASSOU POR ISSO...</h1>
+                <p>Eu Bruno Peretti, já fui obeso mórbido, já pesei 176kg e tentei de tudo antes de desenvolver minha própria metodologia, para isso, fui buscar mais conhecimento teórico e prático em uma das mais renomadas Universidade do Mundo a Universidade de São Paulo (USP), e trouxe diversas técnicas diferenciadas de treinos para perda de gordura corporal e ganho de massa muscular.</p>
+            </div>
+        </div>
+    </section>
+			
 		<section id="b8">
-                <div class="container">
-                    <h2>APRENDA COM QUEM JÁ PASSOU POR ISSO...</h2>
-                </div>
-                <div class="container lista-depoimentos">
-                    <div class="owl-carousel">
-                        <div class="item">
-                            <div class="col-sm-8 col-sm-offset-2 text-center">
-                                <h4 class="detalhe"></h4>
-                                <p>
-                                    Eu Bruno Peretti, já fui obeso mórbido, já pesei 176kg e tentei de tudo antes de desenvolver minha própria metodologia, para isso, fui buscar mais conhecimento teórico e prático em uma das mais renomadas Universidade do Mundo a Universidade de São Paulo (USP), e trouxe diversas técnicas diferenciadas de treinos para perda de gordura corporal e ganho de massa muscular.<br />
-                                </p>
-                                <h3>- Bruno Peretti -</h3>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="col-sm-8 col-sm-offset-2 text-center">
-                                <h4 class="detalhe"></h4>
-								<h2>QUEM EU SOU</h2>
-                                <p>OSou Personal Trainer e Coach especializado em pessoas acima dos 30 anos, <strong>com dificuldade de Emagrecer e Cuidar da Saúde. Acerte no ☺🎯 Bora ??</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             <section id="b8">
                 <div class="container">
                     <h2>DEPOIMENTOS</h2>
@@ -554,9 +535,56 @@ var wpcf7 = {"apiSettings":{"root":"http:\/\/joaomalta.com.br\/wp-json\/contact-
 
             </section>
         </section>
-		<div class="container">
+		
+
+
+                <script type="text/javascript" src="maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+                <script type="text/javascript" src="cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
+                <script src="wp-content/themes/joao_malta/js/owl.carousel.2.0.0-beta.2.4/owl.carousel.min.js"></script>
+                <script src="wp-content/themes/joao_malta/js/initfc66.js?v=1.32221"></script>
+
+                <!-- IE9 form fields placeholder fix -->
+                <!--[if lt IE 9]>
+            <script>contact_form_IE9_placeholder_fix();</script>
+            <![endif]-->
+
+                <script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/joaomalta.com.br\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Verifique se voc\u00ea n\u00e3o \u00e9 um rob\u00f4."}}};
+/* ]]> */
+                </script>
+                <script type="text/javascript" src="wp-content/plugins/contact-form-7/includes/js/scripts33a6.js?ver=4.9"></script>
+                <script type="text/javascript" src="wp-includes/js/wp-embed.min6712.js?ver=4.8.17"></script>
+
+
+            </section>
+
+
+                <script type="text/javascript" src="maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+                <script type="text/javascript" src="cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
+                <script src="wp-content/themes/joao_malta/js/owl.carousel.2.0.0-beta.2.4/owl.carousel.min.js"></script>
+                <script src="wp-content/themes/joao_malta/js/initfc66.js?v=1.32221"></script>
+
+                <!-- IE9 form fields placeholder fix -->
+                <!--[if lt IE 9]>
+            <script>contact_form_IE9_placeholder_fix();</script>
+            <![endif]-->
+
+                <script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/joaomalta.com.br\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Verifique se voc\u00ea n\u00e3o \u00e9 um rob\u00f4."}}};
+/* ]]> */
+                </script>
+                <script type="text/javascript" src="wp-content/plugins/contact-form-7/includes/js/scripts33a6.js?ver=4.9"></script>
+                <script type="text/javascript" src="wp-includes/js/wp-embed.min6712.js?ver=4.8.17"></script>
+
+
+            </section>
+        </section>
+		<section>
+		<div class="container" id="c1">
 			<h1> Envie uma mensagem </h1>
-			<h4> Nossos consultores terão o maior prazer em atendê-lo! <h4>
+			<h4> Nossos consultores terão o maior prazer em atendê-lo! </h4><h4>
 			<form action="ADMINUSRS/formulario/email.php" method="post">
                   <div class="form-group first">
                     <label for="nome">Nome</label>
@@ -574,9 +602,9 @@ var wpcf7 = {"apiSettings":{"root":"http:\/\/joaomalta.com.br\/wp-json\/contact-
                     
                   </div>
                   <input type="submit" value="Enviar" class="btn btn-pill text-white btn-block btn-primary">
-                  </div>
-                </form>
-
+                  </form></h4>
+				  </div>
+				  </section>
 </div>
         <section id="footer" style="background-image:url(http://herorickystudiosdownloads.000webhostapp.com/img/bg-rodape.png);">
             <div class="container">
@@ -584,9 +612,14 @@ var wpcf7 = {"apiSettings":{"root":"http:\/\/joaomalta.com.br\/wp-json\/contact-
                     <img class="logo" src="wp-content\uploads\2017\09/logo_jm.png" alt="Bruno Perrety" />
                 </div>
                 <div class="text-xs-center col-md-9 text-md-left col-lg-8">
-                    <p>Ficou com alguma duvida? Então entre em contato comigo!</p>
-                    <ul><li>+55 11 94070-1116</li><li><a href="mailto:bclementinos@gmail.com" target="_blank">bclementinos@gmail.com</a></li><li>brunoperetti.com.br</li></ul>
-                    <p>Desenvolvido por<a href="http://www.youtube.com/herorickygames"> HeroRicky Games</a></p>
+                    <p>Todos os direitos reservados © 2021</p>
+                    <ul><li>011 94070-1116</li><li><a href="mailto:bclementinos@gmail.com" target="_blank">bclementinos@gmail.com</a></li><li><a href="https://www.instagram.com/bruno_peretti"><i class="fa fa-instagram"></i> <a href="https://web.whatsapp.com/send?phone=5511940701116&text=Ol%C3%A1+Bruno+me+interessei+pelo+seu+treinamento.&app_absent=0"><i class="fa fa-phone"></i></a> <a href="https://facebook.com/personalbrunoperetti/"><i class="fa fa-facebook"></i></a> <a href="https://www.youtube.com/channel/UCMZhOTgMAmDYFbntLncpy6g"><i class="fa fa-youtube"></i></a></a></li></ul>
+                    <p>Desenvolvido por <a href="http://www.youtube.com/herorickygames">HeroRicky Games</a></p>
+					<p>Caso tenha interesse de contato com o Desenvolvedor do site:</p>
+                    <h4><a href="https://api.whatsapp.com/send?phone=5511971153868&text=Ol%C3%A1%20Ricky%2C%20me%20interessei%20pelo%20seu%20servi%C3%A7o%20no%20site%20do%20seu%20cliente%2C%20me%20interesso%20num%20or%C3%A7amento%20para%20fazer%20o%20meu%20site!">Whatsapp do desenvolvedor desse site. </a></h4>
+					<h4><a href="http://www.youtube.com/herorickygames">Canal do desenvolvedor desse site no Youtube</a></h4>
+					<h4><a href="http://instagram.com/heroricky_games">Instagram do desenvolvedor desse site</a></h4>
+					<p>
                 </div>
             </div>
         </section>

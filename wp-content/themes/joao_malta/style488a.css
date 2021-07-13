@@ -40,7 +40,7 @@ a:hover {text-decoration:none;}
 #header.affix + section {margin-top:95px;}
 #header .logo {max-width: 243px;width: 170%;height:auto;}
 #header .menu {margin:15px 0 0 0; padding:0;}
-#header .menu li {margin:0; padding:0 30px; border-right:solid 2px #fff; list-style:none; display:inline-block; text-align:center; position:relative;}
+#header .menu li {margin:0;padding: 0 15px;border-right:solid 2px #fff;list-style:none;display:inline-block;text-align:center;position:relative;}
 #header .menu li:last-child {border-right:none;}
 #header .menu li a {padding:0;font-size:13px;line-height:15px;color: #fff;font-family:'FuturaBQ';text-transform:uppercase;display:block;transition:all 0.3s ease-in-out;}
 #header .menu li a:active,
@@ -91,7 +91,7 @@ a:hover {text-decoration:none;}
 
 #b4 {background-color:#d8d8d9; background-position:top center; background-size:100% 100%; background-repeat:no-repeat; padding-top:80px; padding-bottom:60px;}
 #b4 .texto-principal {color:#fff;}
-#b4 .texto-principal h2 {font-size:50px;line-height:50px;font-family:'FuturaBQ';margin-top:0;margin-bottom:12px;color: #fffff;}
+#b4 .texto-principal h2 {font-size:50px;line-height:50px;font-family:'FuturaBQ';margin-top:0;margin-bottom:12px;color: #F28705;}
 #b4 .texto-principal hr {width:60px; border-top:solid 1px #565654; margin:0 auto 20px 0;}
 #b4 .texto-principal p {font-size:18px; line-height:22px; margin-bottom:20px; text-align:justify;}
 #b4 .texto-principal p:last-child {margin-top:40px;}
@@ -155,7 +155,7 @@ a:hover {text-decoration:none;}
 #b5 .planos > div:nth-child(even) .plano:hover h2 span {background:#565654;}
 
 #b6 {background-color: #1C98A6;background-position:top center;background-size:100% 100%;background-repeat:no-repeat;padding-top:80px;padding-bottom: 0px;}
-#b6 .texto h2 {font-size:50px;line-height:50px;font-family:'FuturaBQ';margin-top:0;margin-bottom:12px;color: #D9A036;}
+#b6 .texto h2 {font-size: 44px;line-height:50px;font-family:'FuturaBQ';margin-top:0;margin-bottom:12px;color: #F28705;}
 #b6 .texto hr {width:60px; border-top:solid 1px #e18066; margin:0 auto 20px 0;}
 #b6 .texto p {font-size:18px; line-height:22px; margin-bottom:20px; text-align:justify; color:#fff;}
 #b6 .itens {margin-top:20px; width:100%;}
@@ -296,5 +296,11 @@ a:hover {text-decoration:none;}
 @media (max-width: 320px) {
 	#menu-mobile .overlay-content {padding-left:15px; padding-right:15px;}
 }
+#b2 .texto-direita h3 {
+    font-size: 59px;
+    line-height: 46px;
+    font-family: 'Yellowtail';
+    margin-top: 0;
+    margin-bottom: 12px;
 }
 }
