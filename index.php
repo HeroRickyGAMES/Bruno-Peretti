@@ -30,6 +30,10 @@
 	<script type="text/javascript">
 	var template_url = "wp-content/themes/joao_malta/index.html";
 	</script>
+	<!-- SCRIPT DO ADSENSE -->
+	<script data-ad-client="ca-pub-1895475762491539"
+	async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+	</script>
 	
 	<link rel='dns-prefetch' href='http://s.w.org/' />
 		<script type="text/javascript">
@@ -121,11 +125,11 @@ img.emoji {
             <div class="col-sm-9 col-md-9 text-center">
                 <div class="menu-menu-principal-container">
                     <ul id="menu-menu-principal" class="menu">
-                        <li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="index.php">INICIO</a></li>
+                        <li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="/">INICIO</a></li>
                         <li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="#b4">PROGRAMA</a></li>
                         <!-- <li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="BlogPage/blogpag1.html">BLOG</a></li> -->
                         <li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a href="#b6">METODOLOGIA</a></li>
-						<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="#s1">SOBRE</a></li>
+                        <li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a href="#b3">SOBRE</a></li>
                         <li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a href="#b8">Depoimentos</a></li>
                         <li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a href="#c1">Contato</a></li>
                             <li><a href="https://www.instagram.com/bruno_peretti"><i class="fa fa-instagram"></i></a></li>
@@ -389,8 +393,9 @@ jsFileLocation:"//joaomalta.com.br/wp-content/plugins/revslider/public/assets/js
                                     <tr>
                                         <td><img src="wp-content/uploads/2017/09/b4-imagem-2.png" /></td>
                                         <td>
-                                            <p><strong><span style="color: #4f4b4b;">SEJA QUAL FOR O SEU OBJETIVO,</span></strong></p>
-                                            <p><span style="color: #4f4b4b;">VOU COLOCAR TODOS MEUS ANOS DE EXPERIÊNCIA</span><br /><span style="color: #4f4b4b;">PRÁTICA E TEÓRICA PARA TE AJUDAR!</span></p>
+										<p><strong><span style="color: #F28705;">SEJA QUAL FOR O SEU OBJETIVO,</span></strong></p>
+                                            <p><span style="color: #0000ff;">VOU COLOCAR TODOS MEUS ANOS DE EXPERIÊNCIA</span>
+											<span style="color: #0000ff;">PRÁTICA E TEÓRICA PARA TE AJUDAR!</span></p>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -455,9 +460,9 @@ jsFileLocation:"//joaomalta.com.br/wp-content/plugins/revslider/public/assets/js
                 </div>
             </div>
 			    <section id="b3" style="background-image:url(wp-content/uploads/2017/09/bg-rodape.png);">
-        <div class="container base" id=s1>
+        <div id="s1" class="container base">
             <div class="col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 text-center">
-                <p><img src="wp-content/themes/joao_malta/img/b3-detalhe.png" /></p>
+                <p><img src="wp-content/themes/joao_malta/img/b3-detalhe.png"></p>
 				<h1>APRENDA COM QUEM JÁ PASSOU POR ISSO...</h1>
                 <p>Eu Bruno Peretti, já fui obeso mórbido, já pesei 176kg e tentei de tudo antes de desenvolver minha própria metodologia, para isso, fui buscar mais conhecimento teórico e prático em uma das mais renomadas Universidade do Mundo a Universidade de São Paulo (USP), e trouxe diversas técnicas diferenciadas de treinos para perda de gordura corporal e ganho de massa muscular.</p>
             </div>
