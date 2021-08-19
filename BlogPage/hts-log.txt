@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 28 Jun 2021 12:21:53 at https://brunoperettiblog.blogspot.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://brunoperettiblog.blogspot.com -O1 "C:\My Web Sites\Page" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:22:01	Error: 	"Not Found" (404) at link https://brunoperettiblog.blogspot.com/https (from https://brunoperettiblog.blogspot.com/)
+12:22:28	Error: 	"Not Found" (404) at link https://brunoperettiblog.blogspot.com/2021/06/https (from https://brunoperettiblog.blogspot.com/2021/06/4-exercicios-para-tornear-o-bumbum.html)
+12:22:32	Warning: 	Retry after error -4 (Incorrect length (391947 Bytes, 2460082 expected)) at link https://brunoperetti.com.br/wp-content/uploads/2020/07/Dica-de-ouro-para-a-pele-perfeita.png (from https://brunoperettiblog.blogspot.com/2021/06/como-emagrecer-depois-dos-30-anos.html)
+12:22:32	Warning: 	Retry after error -4 (Incorrect length (31948 Bytes, 251247 expected)) at link https://brunoperetti.com.br/wp-content/uploads/2020/07/CHEGA-DE-gritaR-para-o-universo_-OU-EU-“TO-AQUI”.png (from https://brunoperettiblog.blogspot.com/2021/06/exercicio-na-meia-idade-chega-de-gritar.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 4 seconds : 113 links scanned, 108 files written (23250437 bytes overall) [20472157 bytes received at 319877 bytes/sec], 3729031 bytes transferred using HTTP compression in 60 files, ratio 20%, 1.3 requests per connection
+(2 errors, 2 warnings, 0 messages)
